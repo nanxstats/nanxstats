@@ -13,9 +13,10 @@
 ![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=gnubash&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
+A statistician by training, a builder by passion.
 I work at the intersection of statistical methodology and research software engineering.
-My focus is on making late-stage clinical trials efficient, reproducible,
-and ready for regulatory review.
+My work shapes how statistical methods become reliable software infrastructure,
+and how that software clears regulatory review with transparency and reproducibility.
 
 ## Software
 
