@@ -51,6 +51,15 @@ and ready for regulatory review.
 - [eCTD submission with analysis using R](https://nanx.me/blog/post/ectd-pkglite-paper/)
 - [Training tissue-specific gene embeddings on GTEx data](https://nanx.me/blog/post/exp2vec/)
 
+## Recognition
+
+- [John M. Chambers Statistical Software Award](https://community.amstat.org/jointscsg-section/awards/john-m-chambers), American Statistical Association
+- Second place @ [PrecisionFDA Brain Cancer Predictive Modeling and Biomarker Discovery Challenge](https://precision.fda.gov/challenges/8/intro)
+- First place @ [PrecisionFDA BioCompute Object App-a-thon (Advanced Track)](https://precision.fda.gov/challenges/7/intro)
+- Published author and speaker ([papers](https://nanx.me/papers/), [books](https://nanx.me/books/), [talks](https://nanx.me/talks/))
+- 2 million+ annual downloads across projects
+- 3.5K+ GitHub stars across projects
+
 ## Connect
 
 [![Website](https://img.shields.io/badge/-nanx.me-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://nanx.me/)
