@@ -53,6 +53,7 @@ and ready for regulatory review.
 
 ## Recognition
 
+- [_Statistics in Biopharmaceutical Research_ Best Paper Award 2025](https://doi.org/10.1080/19466315.2025.2503684)
 - [John M. Chambers Statistical Software Award](https://community.amstat.org/jointscsg-section/awards/john-m-chambers), American Statistical Association
 - Second place @ [PrecisionFDA Brain Cancer Predictive Modeling and Biomarker Discovery Challenge](https://precision.fda.gov/challenges/8/intro)
 - First place @ [PrecisionFDA BioCompute Object App-a-thon (Advanced Track)](https://precision.fda.gov/challenges/7/intro)
