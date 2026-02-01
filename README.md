@@ -1,6 +1,6 @@
 # Hi, I'm Nan 👋
 
-📍 **Pennsylvania** | 🎲 **Statistician** | 🤖 **Research Software Engineering**
+📍 **Pennsylvania** | 📈 **Statistician** | 🤖 **Research Software Engineering**
 
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![Shiny](https://img.shields.io/badge/-Shiny-75AADB?style=flat-square&logo=rstudioide&logoColor=white)
@@ -26,40 +26,40 @@ and ready for regulatory review.
 - 📝 **[rtflite](https://pharmaverse.github.io/rtflite/)** - Lightweight RTF composer for Python
 - 🔌 **[pkgdown.offline](https://nanx.me/pkgdown.offline/)** - Build pkgdown websites without an internet connection
 - 🚀 **[revdeprun](https://nanx.me/revdeprun/)** - Rust CLI for R package reverse dependency checks
-- 🔬 **[tinytopics](https://nanx.me/tinytopics/)** - GPU-accelerated topic modeling via neural Poisson NMF
+- 🧠 **[tinytopics](https://nanx.me/tinytopics/)** - GPU-accelerated topic modeling via neural Poisson NMF
 - 🧪 **[tinyvdiff](https://nanx.me/tinyvdiff/)** - Minimalist visual regression testing plugin for pytest
 - 📸 **[pytest-r-snapshot](https://nanx.me/pytest-r-snapshot/)** - Snapshot testing against R reference outputs
 - 🧲 **[msaenet](https://nanx.me/msaenet/)** - Multi-step adaptive elastic-net for sparse regressions
 - 🌳 **[stackgbm](https://nanx.me/stackgbm/)** - Model stacking for xgboost, lightgbm, and catboost
-- 🥇 **[oneclust](https://nanx.me/oneclust/)** - Maximum homogeneity clustering for univariate data
+- 🎯 **[oneclust](https://nanx.me/oneclust/)** - Maximum homogeneity clustering for univariate data
 - 🧬 **[protr](https://nanx.me/protr/)** - Protein sequence feature extraction in R
 - 🐳 **[liftr](https://liftr.me/)** - Containerize R Markdown documents for reproducibility
-- 🍭 **[vscode-textmate-rstheme](https://marketplace.visualstudio.com/items?itemName=nanxstats.textmate-rstheme)** - VS Code theme inspired by RStudio IDE default theme
+- 🎨 **[vscode-textmate-rstheme](https://marketplace.visualstudio.com/items?itemName=nanxstats.textmate-rstheme)** - VS Code theme inspired by RStudio IDE default theme
 - ✂️ **[vscode-markdown-stupefy](https://marketplace.visualstudio.com/items?itemName=nanxstats.markdown-stupefy)** - Convert smart punctuation to ASCII in VS Code
 - 🔤 **[DM Mono Ligaturized](https://github.com/nanxstats/dm-mono-ligaturized)** - DM Mono font with Fira Code ligatures
 - ⚡ **[r-base-shortcuts](https://github.com/nanxstats/r-base-shortcuts)** - Lesser-known base R idioms for concise and fast code
-- 🐝 **[awesome-shiny-extensions](https://github.com/nanxstats/awesome-shiny-extensions)** - Curated list of Shiny UI/server components
+- ✨ **[awesome-shiny-extensions](https://github.com/nanxstats/awesome-shiny-extensions)** - Curated list of Shiny UI/server components
 
 ## Writing
 
-- [Introducing pytest-r-snapshot: Verifying Python code against R outputs at scale](https://nanx.me/blog/post/pytest-r-snapshot/)
-- [Reverse dependency check speedrun: a data.table case study](https://nanx.me/blog/post/revdep-speedrun/)
-- [ggsci 4.0.0: 400+ new color palettes](https://nanx.me/blog/post/ggsci-4-0-0/)
-- [Introducing py-ggsci: ggsci color palettes for plotnine in Python](https://nanx.me/blog/post/ggsci-python/)
-- [tinytopics: GPU-accelerated topic modeling via constrained neural Poisson NMF](https://nanx.me/blog/post/tinytopics/)
-- [Group sequential trials in industry: a 30-year perspective](https://nanx.me/blog/post/group-sequential-trials-industry-30-years/)
-- [eCTD submission with analysis using R](https://nanx.me/blog/post/ectd-pkglite-paper/)
-- [Training tissue-specific gene embeddings on GTEx data](https://nanx.me/blog/post/exp2vec/)
+- 📸 [Introducing pytest-r-snapshot: Verifying Python code against R outputs at scale](https://nanx.me/blog/post/pytest-r-snapshot/)
+- ⚡ [Reverse dependency check speedrun: a data.table case study](https://nanx.me/blog/post/revdep-speedrun/)
+- 🦄 [ggsci 4.0.0: 400+ new color palettes](https://nanx.me/blog/post/ggsci-4-0-0/)
+- 🎨 [Introducing py-ggsci: ggsci color palettes for plotnine in Python](https://nanx.me/blog/post/ggsci-python/)
+- 🧠 [tinytopics: GPU-accelerated topic modeling via constrained neural Poisson NMF](https://nanx.me/blog/post/tinytopics/)
+- 💊 [Group sequential trials in industry: a 30-year perspective](https://nanx.me/blog/post/group-sequential-trials-industry-30-years/)
+- 📋 [eCTD submission with analysis using R](https://nanx.me/blog/post/ectd-pkglite-paper/)
+- 🧬 [Training tissue-specific gene embeddings on GTEx data](https://nanx.me/blog/post/exp2vec/)
 
 ## Recognition
 
-- [_Statistics in Biopharmaceutical Research_ Best Paper Award 2025](https://doi.org/10.1080/19466315.2025.2503684)
-- [John M. Chambers Statistical Software Award](https://community.amstat.org/jointscsg-section/awards/john-m-chambers), American Statistical Association
-- Second place @ [PrecisionFDA Brain Cancer Predictive Modeling and Biomarker Discovery Challenge](https://precision.fda.gov/challenges/8/intro)
-- First place @ [PrecisionFDA BioCompute Object App-a-thon (Advanced Track)](https://precision.fda.gov/challenges/7/intro)
-- Published author and speaker ([papers](https://nanx.me/papers/), [books](https://nanx.me/books/), [talks](https://nanx.me/talks/))
-- 2 million+ annual downloads across projects
-- 3.5K+ GitHub stars across projects
+- 🏆 [Best Paper Award 2025](https://doi.org/10.1080/19466315.2025.2503684), _Statistics in Biopharmaceutical Research_
+- 🏆 [John M. Chambers Statistical Software Award](https://community.amstat.org/jointscsg-section/awards/john-m-chambers), American Statistical Association
+- 🥈 Second place, [PrecisionFDA Brain Cancer Predictive Modeling and Biomarker Discovery Challenge](https://precision.fda.gov/challenges/8/intro)
+- 🥇 First place, [PrecisionFDA BioCompute Object App-a-thon (Advanced Track)](https://precision.fda.gov/challenges/7/intro)
+- 📚 Published author and speaker ([papers](https://nanx.me/papers/), [books](https://nanx.me/books/), [talks](https://nanx.me/talks/))
+- 📈 2 million+ annual downloads across projects
+- 📈 3.5K+ GitHub stars across projects
 
 ## Connect
 
