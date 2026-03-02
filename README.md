@@ -1,6 +1,6 @@
 # Hi, I'm Nan 👋
 
-📍 **Pennsylvania** | 📈 **Statistician** | 🤖 **Research Software Engineering**
+📍 **SF Bay Area soon** | 📈 **Statistician** | 🤖 **Research Software Engineering**
 
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![Shiny](https://img.shields.io/badge/-Shiny-75AADB?style=flat-square&logo=rstudioide&logoColor=white)
