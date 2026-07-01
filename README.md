@@ -1,6 +1,6 @@
 # Hi, I'm Nan 👋
 
-📍 **Mountain View** | 📈 **Statistician** | 🚀 **Research Software Engineering**
+📍 **Mountain View, CA** | 📈 **Statistician** | 🚀 **Research Software Engineering**
 
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![Shiny](https://img.shields.io/badge/-Shiny-75AADB?style=flat-square&logo=rstudioide&logoColor=white)
@@ -29,6 +29,7 @@ and how that software clears regulatory review with transparency and reproducibi
 - 🚀 **[revdeprun](https://nanx.me/revdeprun/)** - Rust CLI for R package reverse dependency checks
 - 🧠 **[tinytopics](https://nanx.me/tinytopics/)** - GPU-accelerated topic modeling via neural Poisson NMF
 - 🧪 **[tinyvdiff](https://nanx.me/tinyvdiff/)** - Minimalist visual regression testing plugin for pytest
+- 🎭 **[playwright-byob](https://nanx.me/playwright-byob/)** - Bring your own browser to Playwright
 - 📸 **[pytest-r-snapshot](https://nanx.me/pytest-r-snapshot/)** - Snapshot testing against R reference outputs
 - 🧲 **[msaenet](https://nanx.me/msaenet/)** - Multi-step adaptive elastic-net for sparse regressions
 - 🌳 **[stackgbm](https://nanx.me/stackgbm/)** - Model stacking for xgboost, lightgbm, and catboost
