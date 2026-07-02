@@ -30,6 +30,7 @@ and how that software clears regulatory review with transparency and reproducibi
 - 🧠 **[tinytopics](https://nanx.me/tinytopics/)** - GPU-accelerated topic modeling via neural Poisson NMF
 - 🧪 **[tinyvdiff](https://nanx.me/tinyvdiff/)** - Minimalist visual regression testing plugin for pytest
 - 🎭 **[playwright-byob](https://nanx.me/playwright-byob/)** - Bring your own browser to Playwright
+- 🔤 **[asciilint](https://nanx.me/asciilint/)** - Configurable, CI-friendly character policy checks for text files
 - 📸 **[pytest-r-snapshot](https://nanx.me/pytest-r-snapshot/)** - Snapshot testing against R reference outputs
 - 🧲 **[msaenet](https://nanx.me/msaenet/)** - Multi-step adaptive elastic-net for sparse regressions
 - 🌳 **[stackgbm](https://nanx.me/stackgbm/)** - Model stacking for xgboost, lightgbm, and catboost
