@@ -27,6 +27,7 @@ and how that software clears regulatory review with transparency and reproducibi
 - 💿 **[py-pkglite](https://pharmaverse.github.io/py-pkglite/)** - Pack and restore source packages as text files
 - 📝 **[rtflite](https://pharmaverse.github.io/rtflite/)** - Lightweight RTF composer for Python
 - 🔌 **[pkgdown.offline](https://nanx.me/pkgdown.offline/)** - Build pkgdown websites without an internet connection
+- 🪓 **[bisectrunk](https://nanx.me/bisectrunk/)** - Parallel, environment-aware, resumable Git bisection executor
 - 🚀 **[revdeprun](https://nanx.me/revdeprun/)** - Rust CLI for R package reverse dependency checks
 - 🧠 **[tinytopics](https://nanx.me/tinytopics/)** - GPU-accelerated topic modeling via neural Poisson NMF
 - 🧪 **[tinyvdiff](https://nanx.me/tinyvdiff/)** - Minimalist visual regression testing plugin for pytest
