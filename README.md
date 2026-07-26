@@ -45,6 +45,7 @@ and how that software clears regulatory review with transparency and reproducibi
 - 👑 **[noto-sans-mono-ligaturized](https://github.com/nanxstats/noto-sans-mono-ligaturized)** - Noto Sans Mono font with Fira Code ligatures
 - 📄 **[paper-mono-ligaturized](https://github.com/nanxstats/paper-mono-ligaturized)** - Paper Mono font with Fira Code ligatures
 - ✴️ **[anthrosevka](https://github.com/nanxstats/anthrosevka)** - Custom Iosevka build inspired by Anthropic Mono
+- 🍺 **[homebrew-tap](https://github.com/nanxstats/homebrew-tap)** - Homebrew tap for my CLI tools and font builds
 - ⚡ **[r-base-shortcuts](https://github.com/nanxstats/r-base-shortcuts)** - Lesser-known base R idioms for concise and fast code
 - 🦀 **[r-rust-pkgs](https://github.com/nanxstats/r-rust-pkgs)** - R packages using Rust on CRAN
 - ✨ **[awesome-shiny-extensions](https://github.com/nanxstats/awesome-shiny-extensions)** - Curated list of Shiny UI/server components
