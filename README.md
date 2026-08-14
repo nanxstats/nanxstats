@@ -30,6 +30,7 @@ and how that software clears regulatory review with transparency and reproducibi
 - 🪶 **[liteformats](https://nanx.me/liteformats/)** - Minimalist output formats and templates for litedown
 - 🐉 **[zmij](https://nanx.me/zmij/)** - Round-trip-safe double-precision formatting for R
 - 🪓 **[bisectrunk](https://nanx.me/bisectrunk/)** - Parallel, environment-aware, resumable Git bisection executor
+- 🧭 **[okr](https://nanx.me/okr/)** - Reproducible R source context for coding agents
 - 🚀 **[revdeprun](https://nanx.me/revdeprun/)** - Rust CLI for R package reverse dependency checks
 - 🧠 **[tinytopics](https://nanx.me/tinytopics/)** - GPU-accelerated topic modeling via neural Poisson NMF
 - 🧪 **[tinyvdiff](https://nanx.me/tinyvdiff/)** - Minimalist visual regression testing plugin for pytest
