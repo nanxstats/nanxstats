@@ -53,16 +53,26 @@ and how that software clears regulatory review with transparency and reproducibi
 - 🦀 **[r-rust-pkgs](https://github.com/nanxstats/r-rust-pkgs)** - R packages using Rust on CRAN
 - ✨ **[awesome-shiny-extensions](https://github.com/nanxstats/awesome-shiny-extensions)** - Curated list of Shiny UI/server components
 
+## Books
+
+- 📘 **[Group Sequential Design in R: A Practical Guide to the gsDesign Web Interface](https://link.springer.com/book/9783032315892)** - [preprint](https://keaven.github.io/gsd-shiny/)
+- 🐍 **[Python for Clinical Study Reports and Submission](https://pycsr.org/)**
+- 💊 **[R for Clinical Study Reports and Submission](https://r4csr.org/)**
+- 📈 **[Group Sequential Design Under Non-Proportional Hazards](https://keaven.github.io/gsd-deming/)**
+- 🔤 **[Open Source Typography](https://nanx.me/ost/)**
+
 ## Writing
 
+- 🧭 [okr: Reproducible R source context for coding agents](https://nanx.me/blog/post/okr/)
+- 🐉 [Żmij for R: Floating-point to string conversion with round-trip guarantees](https://nanx.me/blog/post/zmij-r/)
+- 🪓 [Introducing bisectrunk: Parallel Git bisection for real-world regressions](https://nanx.me/blog/post/bisectrunk/)
+- 🦄 [ggsci 5.0.0 and py-ggsci 2.0.0: Generative color scales from Gephi](https://nanx.me/blog/post/ggsci-5-0-0/)
+- ✨ [Becoming a vibe maintainer](https://nanx.me/blog/post/vibe-maintainer/)
 - 📸 [Introducing pytest-r-snapshot: Verifying Python code against R outputs at scale](https://nanx.me/blog/post/pytest-r-snapshot/)
 - ⚡ [Reverse dependency check speedrun: a data.table case study](https://nanx.me/blog/post/revdep-speedrun/)
-- 🦄 [ggsci 4.0.0: 400+ new color palettes](https://nanx.me/blog/post/ggsci-4-0-0/)
-- 🎨 [Introducing py-ggsci: ggsci color palettes for plotnine in Python](https://nanx.me/blog/post/ggsci-python/)
 - 🧠 [tinytopics: GPU-accelerated topic modeling via constrained neural Poisson NMF](https://nanx.me/blog/post/tinytopics/)
 - 💊 [Group sequential trials in industry: a 30-year perspective](https://nanx.me/blog/post/group-sequential-trials-industry-30-years/)
 - 📋 [eCTD submission with analysis using R](https://nanx.me/blog/post/ectd-pkglite-paper/)
-- 🧬 [Training tissue-specific gene embeddings on GTEx data](https://nanx.me/blog/post/exp2vec/)
 
 ## Recognition
 
