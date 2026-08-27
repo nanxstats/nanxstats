@@ -55,11 +55,11 @@ and how that software clears regulatory review with transparency and reproducibi
 
 ## Books
 
-- 📘 **[Group Sequential Design in R: A Practical Guide to the gsDesign Web Interface](https://link.springer.com/book/9783032315892)** - [preprint](https://keaven.github.io/gsd-shiny/)
-- 🐍 **[Python for Clinical Study Reports and Submission](https://pycsr.org/)**
-- 💊 **[R for Clinical Study Reports and Submission](https://r4csr.org/)**
-- 📈 **[Group Sequential Design Under Non-Proportional Hazards](https://keaven.github.io/gsd-deming/)**
-- 🔤 **[Open Source Typography](https://nanx.me/ost/)**
+- 📘 [Group Sequential Design in R: A Practical Guide to the gsDesign Web Interface](https://keaven.github.io/gsd-shiny/)
+- 🐍 [Python for Clinical Study Reports and Submission](https://pycsr.org/)
+- 💊 [R for Clinical Study Reports and Submission](https://r4csr.org/)
+- 📈 [Group Sequential Design Under Non-Proportional Hazards](https://keaven.github.io/gsd-deming/)
+- 🔤 [Open Source Typography](https://nanx.me/ost/)
 
 ## Writing
 
