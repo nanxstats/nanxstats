@@ -29,6 +29,7 @@ and how that software clears regulatory review with transparency and reproducibi
 - 🔌 **[pkgdown.offline](https://nanx.me/pkgdown.offline/)** - Build pkgdown websites without an internet connection
 - 🪶 **[liteformats](https://nanx.me/liteformats/)** - Minimalist output formats and templates for litedown
 - 🐉 **[zmij](https://nanx.me/zmij/)** - Round-trip-safe double-precision formatting for R
+- 🪄 **[shinygenui](https://nanx.me/shinygenui/)** - Generative UI for Shiny applications
 - 🪓 **[bisectrunk](https://nanx.me/bisectrunk/)** - Parallel, environment-aware, resumable Git bisection executor
 - 🧭 **[okr](https://nanx.me/okr/)** - Reproducible R source context for coding agents
 - 🚀 **[revdeprun](https://nanx.me/revdeprun/)** - Rust CLI for R package reverse dependency checks
