@@ -23,13 +23,13 @@ and how that software clears regulatory review with transparency and reproducibi
 - 🦄 **[ggsci](https://nanx.me/ggsci/)** - Scientific color palettes for ggplot2
 - 🎨 **[py-ggsci](https://nanx.me/py-ggsci/)** - Scientific color palettes for plotnine
 - 🦀 **[ggsci-rs](https://github.com/nanxstats/ggsci-rs)** - Scientific color palettes for Rust
+- 🪄 **[shinygenui](https://nanx.me/shinygenui/)** - Generative UI for Shiny applications
 - 📦 **[pkglite](https://merck.github.io/pkglite/)** - Compact R package representations for regulatory submissions
 - 💿 **[py-pkglite](https://pharmaverse.github.io/py-pkglite/)** - Pack and restore source packages as text files
 - 📝 **[rtflite](https://pharmaverse.github.io/rtflite/)** - Lightweight RTF composer for Python
 - 🔌 **[pkgdown.offline](https://nanx.me/pkgdown.offline/)** - Build pkgdown websites without an internet connection
 - 🪶 **[liteformats](https://nanx.me/liteformats/)** - Minimalist output formats and templates for litedown
 - 🐉 **[zmij](https://nanx.me/zmij/)** - Round-trip-safe double-precision formatting for R
-- 🪄 **[shinygenui](https://nanx.me/shinygenui/)** - Generative UI for Shiny applications
 - 🪓 **[bisectrunk](https://nanx.me/bisectrunk/)** - Parallel, environment-aware, resumable Git bisection executor
 - 🧭 **[okr](https://nanx.me/okr/)** - Reproducible R source context for coding agents
 - 🚀 **[revdeprun](https://nanx.me/revdeprun/)** - Rust CLI for R package reverse dependency checks
