@@ -30,8 +30,9 @@ and how that software clears regulatory review with transparency and reproducibi
 - 🔌 **[pkgdown.offline](https://nanx.me/pkgdown.offline/)** - Build pkgdown websites without an internet connection
 - 🪶 **[liteformats](https://nanx.me/liteformats/)** - Minimalist output formats and templates for litedown
 - 🐉 **[zmij](https://nanx.me/zmij/)** - Round-trip-safe double-precision formatting for R
-- 🪓 **[bisectrunk](https://nanx.me/bisectrunk/)** - Parallel, environment-aware, resumable Git bisection executor
+- 🫙 **[promptjar](https://github.com/nanxstats/promptjar)** - Query a Git repo of Markdown prompt archives like a database
 - 🧭 **[okr](https://nanx.me/okr/)** - Reproducible R source context for coding agents
+- 🪓 **[bisectrunk](https://nanx.me/bisectrunk/)** - Parallel, environment-aware, resumable Git bisection executor
 - 🚀 **[revdeprun](https://nanx.me/revdeprun/)** - Rust CLI for R package reverse dependency checks
 - 🧠 **[tinytopics](https://nanx.me/tinytopics/)** - GPU-accelerated topic modeling via neural Poisson NMF
 - 🧪 **[tinyvdiff](https://nanx.me/tinyvdiff/)** - Minimalist visual regression testing plugin for pytest
