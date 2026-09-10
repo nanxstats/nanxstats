@@ -66,6 +66,7 @@ and how that software clears regulatory review with transparency and reproducibi
 
 ## Writing
 
+- 🪄 [shinygenui: Generative UI for Shiny](https://nanx.me/blog/post/shinygenui/)
 - 🧭 [okr: Reproducible R source context for coding agents](https://nanx.me/blog/post/okr/)
 - 🐉 [Żmij for R: Floating-point to string conversion with round-trip guarantees](https://nanx.me/blog/post/zmij-r/)
 - 🪓 [Introducing bisectrunk: Parallel Git bisection for real-world regressions](https://nanx.me/blog/post/bisectrunk/)
