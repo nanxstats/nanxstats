@@ -34,6 +34,7 @@ and how that software clears regulatory review with transparency and reproducibi
 - 🧭 **[okr](https://nanx.me/okr/)** - Reproducible R source context for coding agents
 - 🪓 **[bisectrunk](https://nanx.me/bisectrunk/)** - Parallel, environment-aware, resumable Git bisection executor
 - 🚀 **[revdeprun](https://nanx.me/revdeprun/)** - Rust CLI for R package reverse dependency checks
+- 📚 **[boringbib](https://github.com/nanxstats/boringbib)** - Rust CLI for deterministic BibTeX formatting and citation key rewriting
 - 🧠 **[tinytopics](https://nanx.me/tinytopics/)** - GPU-accelerated topic modeling via neural Poisson NMF
 - 🧪 **[tinyvdiff](https://nanx.me/tinyvdiff/)** - Minimalist visual regression testing plugin for pytest
 - 🔤 **[asciilint](https://nanx.me/asciilint/)** - Configurable, CI-friendly character policy checks for text files
