@@ -24,6 +24,7 @@ and how that software clears regulatory review with transparency and reproducibi
 - 🎨 **[py-ggsci](https://nanx.me/py-ggsci/)** - Scientific color palettes for plotnine
 - 🦀 **[ggsci-rs](https://github.com/nanxstats/ggsci-rs)** - Scientific color palettes for Rust
 - 🪄 **[shinygenui](https://nanx.me/shinygenui/)** - Generative UI for Shiny applications
+- 💾 **[shinysnap](https://nanx.me/shinysnap/)** - Save and restore the state of Shiny applications
 - 📦 **[pkglite](https://merck.github.io/pkglite/)** - Compact R package representations for regulatory submissions
 - 💿 **[py-pkglite](https://pharmaverse.github.io/py-pkglite/)** - Pack and restore source packages as text files
 - 📝 **[rtflite](https://pharmaverse.github.io/rtflite/)** - Lightweight RTF composer for Python
