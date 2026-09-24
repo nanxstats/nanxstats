@@ -49,10 +49,8 @@ and how that software clears regulatory review with transparency and reproducibi
 - ✏️ **[p5-brush-skeleton](https://github.com/nanxstats/p5-brush-skeleton)** - Sketched UI skeletons using p5.js and p5.brush
 - 🌈 **[vscode-textmate-rstheme](https://marketplace.visualstudio.com/items?itemName=nanxstats.textmate-rstheme)** - VS Code theme inspired by RStudio IDE default theme
 - ✂️ **[vscode-markdown-stupefy](https://marketplace.visualstudio.com/items?itemName=nanxstats.markdown-stupefy)** - Convert smart punctuation to ASCII in VS Code
-- 🎁 **[dm-mono-ligaturized](https://github.com/nanxstats/dm-mono-ligaturized)** - DM Mono font with Fira Code ligatures
-- 👑 **[noto-sans-mono-ligaturized](https://github.com/nanxstats/noto-sans-mono-ligaturized)** - Noto Sans Mono font with Fira Code ligatures
-- 📄 **[paper-mono-ligaturized](https://github.com/nanxstats/paper-mono-ligaturized)** - Paper Mono font with Fira Code ligatures
 - ✴️ **[anthrosevka](https://github.com/nanxstats/anthrosevka)** - Custom Iosevka build inspired by Anthropic Mono
+- 👑 **[ergonomic-mono](https://github.com/nanxstats/ergonomic-mono)** - Coding font with customizable zero and g glyph variants and programming ligatures.
 - 🍺 **[homebrew-tap](https://github.com/nanxstats/homebrew-tap)** - Homebrew tap for my CLI tools and font builds
 - ⚡ **[r-base-shortcuts](https://github.com/nanxstats/r-base-shortcuts)** - Lesser-known base R idioms for concise and fast code
 - 🦀 **[r-rust-pkgs](https://github.com/nanxstats/r-rust-pkgs)** - R packages using Rust on CRAN
