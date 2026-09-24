@@ -50,7 +50,7 @@ and how that software clears regulatory review with transparency and reproducibi
 - 🌈 **[vscode-textmate-rstheme](https://marketplace.visualstudio.com/items?itemName=nanxstats.textmate-rstheme)** - VS Code theme inspired by RStudio IDE default theme
 - ✂️ **[vscode-markdown-stupefy](https://marketplace.visualstudio.com/items?itemName=nanxstats.markdown-stupefy)** - Convert smart punctuation to ASCII in VS Code
 - ✴️ **[anthrosevka](https://github.com/nanxstats/anthrosevka)** - Custom Iosevka build inspired by Anthropic Mono
-- 👑 **[ergonomic-mono](https://github.com/nanxstats/ergonomic-mono)** - Coding font with customizable zero and g glyph variants and programming ligatures.
+- 👑 **[ergonomic-mono](https://github.com/nanxstats/ergonomic-mono)** - Coding font with customizable glyph variants and programming ligatures.
 - 🍺 **[homebrew-tap](https://github.com/nanxstats/homebrew-tap)** - Homebrew tap for my CLI tools and font builds
 - ⚡ **[r-base-shortcuts](https://github.com/nanxstats/r-base-shortcuts)** - Lesser-known base R idioms for concise and fast code
 - 🦀 **[r-rust-pkgs](https://github.com/nanxstats/r-rust-pkgs)** - R packages using Rust on CRAN
