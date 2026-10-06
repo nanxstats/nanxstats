@@ -1,6 +1,6 @@
 # Hi, I'm Nan 👋
 
-📍 **Mountain View, CA** | 📈 **Statistician** | 🚀 **Research Software Engineering**
+📍 **North Wales, PA** | 📈 **Statistician** | 🚀 **Research Software Engineering**
 
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![Shiny](https://img.shields.io/badge/-Shiny-75AADB?style=flat-square&logo=rstudioide&logoColor=white)
